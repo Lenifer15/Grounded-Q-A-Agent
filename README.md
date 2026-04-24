@@ -1,7 +1,3 @@
-DESCRIPTION: Grounded Q&A Agent using LangChain, IBM Granite 3 & RAG — accurate, source-backed answers
-
-README:
-
 # 🧠 Grounded Q&A Agent with LangChain, Granite 3 & RAG
 
 > A production-ready, hallucination-resistant Q&A agent powered by IBM Granite 3, LangChain, and Retrieval-Augmented Generation (RAG) — delivering accurate, source-grounded answers from your own documents.
